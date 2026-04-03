@@ -1,3 +1,2 @@
 Nombre: Eric 
 Apellido: Vergara
-Dni: 40522298
